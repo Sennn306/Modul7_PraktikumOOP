@@ -21,6 +21,6 @@ public class Main {
             Compiler bekerja di compile-time, bukan runtime.
             Compiler hanya melihat tipe referensi yakni PerangkatPintar, bukan objek asli yang tersimpan.
             Karena aturKecerahan() tidak dideklarasikan di PerangkatPintar, compiler menolaknya/
-            Cara memperbaikinya adalah melakukan downcasting */
+            Cara memperbaikinya adalah melakukan downcasting pada class LampuPintar */
     }
 }
